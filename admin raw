@@ -1,0 +1,15 @@
+# Welcome to your Admin Panel!
+# --------------------------------
+# Under here is where you send Global Messages.
+ 
+# NAME (if you don't want a message to be sent, replace NAME with ?)
+camohatvr
+ 
+# MESSAGE (if you don't want a message to be sent, replace MESSAGE with ?)
+Bye bye to event!!
+ 
+# --------------------------------
+# Here is where you can trigger events! Right now, you can only trigger one event at a time.
+ 
+# EVENT (make sure it matches the Event Name you put in-game! If you don't want an event to be sent right now, put in ? as the event name.)
+?
